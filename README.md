@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou o André Felix</h1>
-<h3 align="center">Apaixonado por front-end e análise de sistemas</h3>
+<h3 align="center">Apaixonado por desenvolvimento e análise de sistemas</h3>
 
 - 🔭 Atualmente estou trabalhando com análise de dados **Retiradas em programação**
 
